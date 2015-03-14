@@ -1,0 +1,5 @@
+eBansawali is an informational Web portal that maintains and explores ancestry and family hierarchy online and shows the result in the form of an ancestor tree, family hierarchy based on user-input (search keyword) along with filter options.
+
+You can create your own ancestry here. Maintaining an online version of our ancestry, provides provisions for easy access and modifications.
+
+An ancestor tree has a common ancestry name and password that the ancestry creator creates at the time of creating the ancestry. Members of an ancestor tree share the ancestry name and password to view the details of the relatives. Members also have their individual user name and password with which they can directly add persons adjacent to the persons they created. Persons can explore trees of non-relatives also but the amount of details displayed is limited.
